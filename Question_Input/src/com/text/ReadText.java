@@ -12,7 +12,7 @@ import com.utils.StreamControl;
  * This file prints out the contents in .txt file
  */
 public class ReadText extends StreamControl{
-	
+	//Haha
 	public void readText(String sql, String column){
 		try{
 			pWriter = new PrintWriter(System.out);
